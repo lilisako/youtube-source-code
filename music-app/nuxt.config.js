@@ -38,8 +38,8 @@ export default {
 
   googleFonts: {
     families: {
-      'Alfa Slab One': true,
-    },
+      'Alfa Slab One': true
+    }
   },
 
   // Modules: https://go.nuxtjs.dev/config-modules

@@ -1,5 +1,3 @@
-const defaultTheme = require("tailwindcss/defaultTheme");
-
 module.exports = {
   theme: {
     extend: {
@@ -8,7 +6,7 @@ module.exports = {
       }
     },
     fontFamily: {
-      google: ['Alfa Slab One'],
-    },
+      google: ['Alfa Slab One']
+    }
   }
-};
+}

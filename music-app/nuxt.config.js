@@ -38,7 +38,7 @@ export default {
 
   googleFonts: {
     families: {
-      'Neonderthaw': true,
+      'Alfa Slab One': true,
     },
   },
 

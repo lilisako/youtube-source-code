@@ -2,8 +2,13 @@ const defaultTheme = require("tailwindcss/defaultTheme");
 
 module.exports = {
   theme: {
+    extend: {
+      colors: {
+        'dark-black': '#343434'
+      }
+    },
     fontFamily: {
-      google: ['Neonderthaw'],
+      google: ['Alfa Slab One'],
     },
   }
 };

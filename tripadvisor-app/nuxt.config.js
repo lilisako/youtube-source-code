@@ -38,8 +38,8 @@ export default {
 
   googleFonts: {
     families: {
-      'Open Sans': true,
-    },
+      'Open Sans': true
+    }
   },
 
   // Modules: https://go.nuxtjs.dev/config-modules

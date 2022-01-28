@@ -1,4 +1,5 @@
 # music-app
+[![](https://img.youtube.com/vi/d24wxhKgO0o/0.jpg)](https://www.youtube.com/watch?v=d24wxhKgO0o)
 
 ## Build Setup
 

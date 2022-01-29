@@ -38,8 +38,8 @@ export default {
 
   googleFonts: {
     families: {
-      'Roboto': true,
-    },
+      Roboto: true
+    }
   },
 
   // Modules: https://go.nuxtjs.dev/config-modules

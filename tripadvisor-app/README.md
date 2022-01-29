@@ -1,5 +1,7 @@
 # tripadvisor-app
 
+[![CREATE UI Tripadvisor CLONE WITH SOURCE CODE | CODING TIME LAPSE](https://img.youtube.com/vi/JqV2O_CVNkw/0.jpg)](https://www.youtube.com/watch?v=JqV2O_CVNkw)
+
 ## Build Setup
 
 ```bash
